@@ -1,0 +1,36 @@
+.features {
+    background: #3e3e3e;
+    padding: 50px 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeInUp 1.5s ease-out;
+  }
+  
+  .features h2 {
+    margin-top: 0;
+    font-size: 2rem;
+  }
+  
+  .features ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .features li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .features li:last-child {
+    border-bottom: none;
+  }
+  
+  .features strong {
+    color: #007bff;
+  }
+  
